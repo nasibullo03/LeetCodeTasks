@@ -7,7 +7,7 @@
     <ProjectGuid>{D389D890-15F5-45C8-BD13-D78EE4E95542}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Merge_Two_Sorted_Lists</RootNamespace>
-    <AssemblyName>Merge_Two_Sorted_Lists</AssemblyName>
+    <AssemblyName>Merge Two Sorted Lists</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -48,6 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
